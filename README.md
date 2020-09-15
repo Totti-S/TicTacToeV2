@@ -1,2 +1,2 @@
-# TicTacToeV2
+# TicTacToe
 Created with CodeSandbox
