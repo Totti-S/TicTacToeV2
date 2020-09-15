@@ -26,7 +26,7 @@ var timer = setInterval(() => {
 table.id = "ristinolla";
 board.appendChild(table);
 
-// After making the game board, we make 5x5 board
+// After making the game board, we make 5x5 cells
 for (let i = 0; i < size; i++) {
   var tr = document.createElement("tr");
   tr.id = i;
